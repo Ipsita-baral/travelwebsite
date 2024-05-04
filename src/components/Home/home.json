@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+      "images":"imgg1.jpg",
+      "name":"Yumthang Valley",
+      "location":"Sikkim",
+      "sen":"Counted among the most remote and beautiful places in India, this valley gives you stunning views of the snow-capped Himalayas beautiful places."
+    },
+    {
+        "id":2,
+      "images":"imgg2.jpg" ,
+      "name":" Islands", 
+      "location":"Andaman and Nicobar",
+       "sen":"Among the most beautiful places in India for couples during winter, Andaman and Nicobar Islands rank high for its serenity,  seafood joints. "
+    },
+    {
+        "id":3,
+      "images":"imgg3.jpg",  
+      "name":"Gulmarg",
+      "location":"Jammu and Kashmir",
+      "sen":"Admire nature in all its glory in Gulmarg, a hill station in the Baramulla district. With the PirPanjal Range in its backdrop, Gulmarg is great for indulging in skiing."
+    }
+]

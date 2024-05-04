@@ -1,0 +1,77 @@
+/* .containertwo{
+height: 100vh;
+width: 100%;
+} */
+
+
+.im{
+    margin-bottom: 7em;
+}
+.im img{
+    
+    height: 70vh;
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+    filter: brightness(0.5);
+}
+
+.aboutus{
+position: absolute;
+transform: translate(5em, -3em);
+    font-size: 6em;
+    color: #ECEFF1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+
+}
+.divvv{
+background-image: url(pexels-nina-uhlikova-287240.jpg);
+
+}
+.maindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    margin-bottom: 3em;
+    /* width: 80%; */
+    margin-inline: 6em;
+}
+.vdo video{
+    height: 300px;
+}
+.imgi{
+    display: flex;
+    gap: 1em;
+}
+.imgi i{
+    padding: .9em 1.3em;
+    background-color: #e9e6e6;
+    font-size: 2.7em;
+}
+.imgi div p{
+    position: absolute;
+    transform: translate(23px, -27px);
+}
+.abtimg img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footdiv{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    gap: 4em;
+}
+.abtimg{
+    text-align: center;
+}

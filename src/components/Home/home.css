@@ -1,0 +1,177 @@
+.imageeee img{
+    width: 100%;
+    height: 73vh;
+    object-fit: cover;
+    position: relative;
+    filter: brightness(0.6);
+}
+.imageeee h1
+{
+    position: absolute;
+    transform: translate(3em,-3.4em);
+    color: white;
+    font-size: 6em;
+    text-transform: uppercase;
+    /* animation: fadeIn .2s linear backwards .4s; */
+}
+ .button{
+    border: none;
+    position: absolute;
+    transform: translate(39em,-12em);
+    color: white;
+    background-color: black;
+    padding: .5em 3em;
+    transition: all ease-in-out .8s;
+    letter-spacing: .2em;
+    transform: translate(40em,-12em);
+    /* animation: fadeIn .5s ease-in-out 2s 1 ; */
+}
+.button:hover{
+    background-color: white;
+    color: black;
+}
+.imageeee div{
+    position: absolute;
+    transform: translate(37em,-22em);
+    letter-spacing: .3em;
+    color: white;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.serv{
+    background-color: #E8EAF6;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+    padding-bottom: .2em;
+}
+.serv:hover{
+    transform: translatey(-.6em);
+    transition: all 2s ease-in-out;
+    background-color: rgb(208, 152, 236);
+    color: white;
+
+    /* animation: slide .5s ease-in-out .3s 1; */
+}
+.serv div{
+    font-size: .3em;
+}
+.serv div:hover{
+color: black;
+}
+.seritem{
+    gap: 1em;
+    margin-top: 2em;
+}
+
+/* @keyframes slide {
+   0%{
+    transform: translatey(-2em);
+   } 
+} */
+
+.pack img{
+    height: 164px;
+    width: 297px;
+    object-fit: cover;
+}
+.packages{
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+    margin-block: 5em;
+}
+.imggt{
+    overflow: hidden;
+}
+.imgpack{
+    transition: scale .3s;
+}
+.imgpack:hover{
+    scale: 110%;
+}
+.pack{
+    border: 2px solid rgb(232 226 226);
+    width: 300px;
+    box-shadow: 1px 2px 16px 0.2px grey;
+}
+.headi{
+    text-align: center;
+}
+.prara{
+    padding-left: 0.5em;
+}
+.he{
+    text-align: center; 
+}
+.bttn{
+    padding-bottom: .6em;
+    text-align: center;
+}
+.bttn button{
+    padding: .3em .6em;
+    background-color: black;
+    color: white;
+    border: none;
+
+}
+.bttn button:hover{
+   transition: all 1s ease-in-out;
+    background-color: rgb(28, 87, 90);
+    
+}
+hr{
+    margin-inline: 1em;
+    color: #1f1c1c;
+}
+.pa{
+    display: flex;
+    flex-direction: column;
+    padding-left: .5em;
+}
+.imgabout{
+    height: 200px;
+    width: 300px;
+    object-fit: cover;
+}
+.about{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-block: 11em;
+}
+.about-ite{
+    display: flex;
+    width: 65%;
+    gap: 2em;
+}
+.about-head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #E0E0E0;
+    padding-left: 1em;
+}
+.about-head div{
+    font-size: 2em;
+    font-weight: 700;
+}
+.about-head .btnn{
+    padding: .3em .6em;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: .5em;
+    /* padding-bottom: .6em;
+    text-align: center; */
+}

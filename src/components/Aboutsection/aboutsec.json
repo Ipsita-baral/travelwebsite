@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "image":"abt.jpg",
+        "name":"Rohan Doe",
+        "para":"Very happy with the great service provided. I was a bit doubtful at first as I never used travel online before., "
+    },
+    {
+        "id":2,
+        "image":"person2.jpg",
+        "name":"Samiskhya Snahi",
+        "para":"We are very happy with service of travel online Will definitely book via travel online again in near future "
+    },
+    {
+        "id":3,
+        "image":"person1.jpg",
+        "name":"Dravid shei",
+        "para":"Fantastic, well organised and very pleasant overall experience. Thai Fusion were excellent, punctual and helpful on the ground in Phuket."
+    }
+]
